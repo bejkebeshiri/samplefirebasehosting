@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
 
         <p>
-           Digital Hot <br>
+           Digital Hot <3 <br>
            te dua shume edel
         </p>
 
