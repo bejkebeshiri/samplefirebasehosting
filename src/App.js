@@ -9,7 +9,7 @@ function App() {
 
         <p>
            Digital Hot Mess
-           CD/CI working
+           te dua shume edel
         </p>
 
       </header>
