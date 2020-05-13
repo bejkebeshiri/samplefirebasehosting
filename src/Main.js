@@ -30,7 +30,7 @@ class Main extends Component {
             <li><NavLink to="/bejki">bejki</NavLink></li>
 
             <li><NavLink to="/Sakhshi">Sakhshi</NavLink></li>
-            <li><NavLink to="/Jorenz">Jorenz</NavLink></li>
+            <li><NavLink to="/Jorn">Jorn</NavLink></li>
             <li><NavLink to="/Sowmya">Sowmya</NavLink></li>
           </ul>
           <div className="content">
