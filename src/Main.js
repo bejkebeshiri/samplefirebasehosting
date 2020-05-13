@@ -12,7 +12,7 @@ import Ainnie from "./Ainnie";
 import bejki from "./bejki";
 
 import Sakhshi from "./Sakhshi";
-import Jorenz from "./Jorenz";
+import Jorn from "./Jorn";
 import Sowmya from "./Sowmya";
 
 class Main extends Component {
@@ -40,7 +40,7 @@ class Main extends Component {
             <Route path="/Ainnie" component={Ainnie}/>
             <Route path="/bejki" component={bejki}/>
             <Route path="/Sakhshi" component={Sakhshi}/>
-            <Route path="/Jorenz" component={Jorenz}/>
+            <Route path="/Jorn" component={Jorn}/>
             <Route path="/Sowmya" component={Sowmya}/>
           </div>
         </div>
