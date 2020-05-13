@@ -6,7 +6,7 @@ class Main extends Component {
        <div>
           <div className="content">
             <h2>Bejki</h2>
-        <p>Hello, I am Mahnoor from Pakistan, I love to code and travel! I am CS Grad from the best university of Pakistan, loving DPS</p>
+        <p>Hello, I am Mahnoor from Pakistan, I love to code and travel! I am CS Grad from the best university of Pakistan, loving DPS</p> 
           </div>
         </div>
     );
