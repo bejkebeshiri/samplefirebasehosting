@@ -8,12 +8,12 @@ class Main extends Component {
        <h2>Mahnoor Fatima</h2>
        <img src= {Img} alt="pic"/>
         <p>Hello, I am Mahnoor from Pakistan, I love to code and travel! I am CS Grad from the best university of Pakistan, loving DPS</p>
- 
+
 
 </div>
 </div>
     );
   }
 }
- 
+
 export default Main;
