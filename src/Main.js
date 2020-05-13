@@ -26,11 +26,11 @@ class Main extends Component {
             <li><NavLink to="/Mahnoor">Mahnoor</NavLink></li>
             <li><NavLink to="/Alok">Alok</NavLink></li>
 
-            <li><NavLink to="/Ainnie">Annie</NavLink></li>
-            <li><NavLink to="/bejki">Bejke</NavLink></li>
+            <li><NavLink to="/Ainnie">Ainnie</NavLink></li>
+            <li><NavLink to="/bejki">bejki</NavLink></li>
 
-            <li><NavLink to="/Sakhshi">Sakshi</NavLink></li>
-            <li><NavLink to="/Jorenz">Jorn</NavLink></li>
+            <li><NavLink to="/Sakhshi">Sakhshi</NavLink></li>
+            <li><NavLink to="/Jorenz">Jorenz</NavLink></li>
             <li><NavLink to="/Sowmya">Sowmya</NavLink></li>
           </ul>
           <div className="content">
